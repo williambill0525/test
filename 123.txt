@@ -1,0 +1,4 @@
+git add README.md
+git cm "any words"
+git remote add origin https://github.com/williambill0525/test.git
+git push -u origin master
